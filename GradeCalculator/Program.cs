@@ -82,6 +82,6 @@ namespace GradeCalculator
             {
                 return "NA";
             }
-        }
+        }//end of function
     }
 }
